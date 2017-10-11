@@ -1,0 +1,13 @@
+img{
+  display:block ;
+  margin: auto;
+  width: auto;
+}
+p{
+  text-align: center;
+}
+h1{
+  color: blue;
+  margin-bottom: inherit;
+  text-align: center;
+}
